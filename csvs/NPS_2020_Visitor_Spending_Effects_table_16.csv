@@ -1,0 +1,51 @@
+,IMPLAN,,,
+Spending Group,Sector,Sector Name,,Weight
+,,"Hotels and motels,",including casino,
+hotels,499,,,1.00
+,,hotels,,
+camping fees,500,Other accommodat,ions,1.00
+restaurants,501,Full-service restaur,ants,0.50
+restaurants,502,Limited-service rest,aurants,0.50
+groceriesb,3400,Retail – Food and b,everage stores,1.00
+gasb,3402,Retail – Gasoline st,ores,1.00
+,,Transit and ground,passenger,
+local transportation,412,,,0.25
+,,transportation,,
+,,Automotive equipm,ent rental and,
+local transportation,442,,,0.75
+,,leasing,,
+,,Transit and ground,passenger,
+a,,,,
+public transportation,412,,,1.00
+,,transportation,,
+,,Automotive equipm,ent rental and,
+a,,,,
+rental cars,442,,,1.00
+,,leasing,,
+local air transportationa,408,Air transportation,,1.00
+local water transportationa,410,Water transportatio,n,1.00
+,,Scenic and sightse,eing transportation,
+a,,,,
+scenic and sightseeing transportation,414,,,1.00
+,,and support activiti,es for transportation,
+,,Other amusement a,nd recreation,
+recreation and entertainment,496,,,1.00
+,,industries,,
+,,Other amusement a,nd recreation,
+a,,,,
+guides and tour fees,496,,,1.00
+,,industries,,
+,,General and consu,mer goods rental,
+a,,,,
+equipment rental,443,,,1.00
+,,except video tapes,and discs,
+,,Retail – Sporting go,"ods, hobby,",
+"a,b",3404,,,1.00
+sporting goods,,,,
+,,musical instrument,and book stores,
+souvenirs and other retailb,3406,Retail – Miscellane,ous store retailers,1.00
+cruise packagea,410,Water transportatio,n,0.45
+,,"Hotels and motels,",including casino,
+a,,,,
+cruise package,499,,,0.55
+,,hotels,,

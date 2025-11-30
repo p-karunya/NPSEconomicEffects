@@ -1,0 +1,34 @@
+,IMPLAN,,,,
+Spending Group,Sector,Sector Name,,,Weight
+hotels,507,"Hotels and motels,",including casi,no,1.00
+,,hotels,,,
+specialty lodging,508,Other accommodat,ions,,1.00
+camping fees,508,Other accommodat,ions,,1.00
+restaurants,509,Full-service restaur,ants,,0.50
+restaurants,510,Limited-service rest,aurants,,0.50
+groceriesb,3406,Retail – Food and b,everage store,s,1.00
+gasb,3408,Retail – Gasoline st,ores,,1.00
+local transportation,418,Transit and ground,passenger,,0.25
+,,transportation,,,
+local transportation,450,Automotive equipm,ent rental and,leasing,0.75
+public transportationa,418,Transit and ground,passenger,,1.00
+,,transportation,,,
+rental carsa,450,Automotive equipm,ent rental and,leasing,1.00
+local air transportationa,414,Air transportation,,,1.00
+local water transportationa,416,Water transportatio,n,,1.00
+scenic and sightseeing transportationa,420,Scenic and sightse,eing transport,ation,1.00
+,,and support activiti,es for transpor,tation,
+recreation and entertainment,504,Other amusement a,nd recreation,,1.00
+,,industries,,,
+guides and tour feesa,504,Other amusement a,nd recreation,,1.00
+,,industries,,,
+equipment rentala,451,General and consu,mer goods ren,tal,1.00
+,,except video tapes,and discs,,
+"sporting goodsa,b",3410,Retail – Sporting go,"ods, hobby, m",usical,1.00
+,,instrument and boo,k stores,,
+souvenirs and other retailb,3412,Retail – Miscellane,ous store retai,lers,1.00
+cruise packagea,416,Water transportatio,n,,0.45
+cruise packagea,507,"Hotels and motels,",including casi,no,0.55
+,,hotels,,,
+a Spending group added for newer socioe,conomic mo,nitoring (SEM) surv,ey data.,,
+b Retail margins are applied for these spe,nding groups,. For retail purchas,"es, only retail",margins are,modele

@@ -1,0 +1,38 @@
+Spending Group,Sector Name,"IMPLAN
+Sector",Weight
+Hotels,"Hotels and motels, including casino hotels",489,1.00
+Specialty Lodging C,Other accommodations,490,1.00
+Camping Fees,Other accommodations,490,1.00
+Restaurants,Full-service restaurants,491,0.50
+Restaurants,Limited-service restaurants,492,0.50
+Groceries B,Retail – Food and beverage stores,389,1.00
+Agritourism A,Other amusement and recreation industries,486,0.25
+"Agritourism A,B",Retail – Food and beverage stores,389,0.75
+Craft Beverage Recreation A,Breweries,101,0.5
+Craft Beverage Recreation A,Wineries,102,0.5
+Gas B,Retail – Gasoline stores,391,1.00
+Local Transportation,Transit and ground passenger transportation,400,0.25
+Local Transportation,Automotive equipment rental and leasing,432,0.75
+Public Transportation A,Transit and ground passenger transportation,400,1.00
+Rental Cars A,Automotive equipment rental and leasing,432,1.00
+Local Air Transportation A,Air transportation,396,1.00
+Local Water Transportation A,Water transportation,398,1.00
+Local Ferry and Plane Transportation A,Air transportation,396,0.5
+Local Ferry and Plane Transportation A,Water transportation,398,0.5
+Scenic and Sightseeing Transportation A,Scenic and sightseeing transportation and support activities for transportation,402,1.00
+Recreation and Entertainment,Other amusement and recreation industries,486,1.00
+National Parks Permits and Fees A,"Museums, historical sites, zoos, and parks",483,1.00
+Guides and Tour Fees A,Other amusement and recreation industries,486,1.00
+Equipment Rental A,General and consumer goods rental except videotapes and discs,433,1.00
+"Sporting Goods A,B","Retail – Sporting goods, hobby, musical instrument and book stores",393,1.00
+Souvenirs and Other Retail B,Retail – Miscellaneous store retailers,395,1.00
+Medical Expenses A,Offices of physicians,465,0.33
+Medical Expenses A,Outpatient care centers,468,0.33
+Medical Expenses A,Hospitals,472,0.34
+Cruise Package A,Water transportation,398,0.45
+Cruise Package A,"Hotels and motels, including casino hotels",489,0.55
+"Electric Vehicle Charging A,B",Retail – Gasoline stores,391,1.00
+Automobile Repair A,"Automotive repair and maintenance, except car washes",494,1.00
+Health and Wellness A,Personal care services,499,0.33
+Health and Wellness A,Other educational services,464,0.33
+Health and Wellness A,Fitness and recreational sports centers,487,0.34

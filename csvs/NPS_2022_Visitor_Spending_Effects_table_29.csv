@@ -1,0 +1,23 @@
+ab,le,A-6,(conti,nued). Visito,r Spendin,g Effects IM,PLAN sector bridge,– 2022.,
+,,,,,,IMPLAN,,,
+Spe,n,ding,Group,,,Sector,Sector Name,,Weigh
+nati,o,nal pa,rks per,mits and fees,a,501,"Museums, historical sit","es, zoos, and",1.00
+,,,,,,,parks,,
+guid,e,s and,tour fe,es a,,504,Other amusement and,recreation,1.00
+,,,,,,,industries,,
+equ,ip,ment,rental a,,,451,General and consume,r goods rental,1.00
+,,,,,,,except video tapes an,d discs,
+spo,rti,ng go,"ods a,b",,,3410,Retail – Sporting good,"s, hobby,",1.00
+,,,,,,,musical instrument an,d book stores,
+sou,v,enirs a,nd othe,r retail b,,3412,Retail – Miscellaneous,store retailers,1.00
+med,i,cal ex,penses,a,,483,Offices of physicians,,0.33
+med,i,cal ex,penses,a,,486,Outpatient care center,s,0.33
+med,i,cal ex,penses,a,,490,Hospitals,,0.34
+crui,s,e pack,age a,,,416,Water transportation,,0.45
+crui,s,e pack,age a,,,507,"Hotels and motels, incl",uding casino,0.55
+,,,,,,,hotels,,
+,a,Spen,ding gro,up added for,newer Soci,oeconomic M,onitoring (SEM) surve,y data.,
+,b,Retail,margin,s are applied,for these sp,ending grou,ps. For retail purchase,"s, only retail margins",are mo
+,,stimu,lating e,conomic activ,ity in the loc,al economy.,,,
+,C,Due t,o batch,modeling con,"straints, all",specialty lod,ging expenditures are,modeled through the,“Other
+,,acco,mmodat,ions” sector.,,,,,
