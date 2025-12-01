@@ -1,26 +1,20 @@
-,,T,otal Visitor,,,,Economic
-,Total,Recreation,Spending,Labo,r Income Valu,e Added,Output
-Park Unit,,Visits ($00,"0s, $2020)",Jobs ($000,"s, $2020) ($000","s, $2020) ($00","0s, $2020)"
-"Arlington House, The",Robert E. Lee,0,$0,0,$0,$0,$0
-Memorial NMEMc,,,,,,,
-Assateague Island N,S,"2,481,659","$111,372","1,402","$44,007","$73,713","$124,986"
-Aztec Ruins NM,,"30,223","$1,811",27,$643,"$1,145","$2,128"
-Badlands NP,,"916,932","$60,511",847,"$23,940","$41,344","$76,026"
-Bandelier NM,,"94,948","$6,141",88,"$2,558","$4,442","$7,925"
-Belmont-Paul Wome,n's Equality NM,"2,535",$49,1,$27,$45,$71
-Bent's Old Fort NHS,,"12,438",$745,10,$301,$527,$919
-Bering Land Bridge N,PRES,"2,642","$4,067",50,"$1,913","$3,582","$5,793"
-Big Bend NP,,"393,907","$33,539",486,"$10,916","$20,053","$37,678"
-Big Cypress NPRES,,"1,181,930","$96,331","1,273","$48,430","$84,982","$138,557"
-Big Hole NBa,,"36,234","$2,595",34,$948,"$1,446","$2,687"
-Big South Fork NRR,Aa,"772,625","$24,335",295,"$9,007","$15,130","$26,361"
-Big Thicket NPRES,,"309,053","$20,309",256,"$9,621","$16,569","$26,737"
-Bighorn Canyon NRA,,"212,295","$9,483",134,"$3,888","$6,254","$11,432"
-Biscayne NP,,"402,770","$26,489",347,"$13,169","$22,824","$37,147"
-Black Canyon of the,Gunnison NP,"341,619","$21,782",271,"$9,279","$16,230","$26,811"
-Blue Ridge PKWYa,,"14,099,484","$1,067,321","15,472","$420,072","$716,910","$1,300,099"
-Bluestone NSR,,"25,208","$1,134",16,$438,$739,"$1,313"
-Booker T Washingto,n NM,"22,482","$1,347",21,$571,$975,"$1,758"
-a For these parks,", results are based on a v",isitor survey at the d,esignated park. For othe,"r parks, visitor ch",aracteristics and sp,ending averages a,re from gen
-profiles or best,available data.,,,,,,
-b Trip characteris,"tic data, spending data, a",nd/or local area defin,itions were updated for,these parks in 20,20.,,
+Park Unit,Total Recreation Visits ($000s, $2020),Spending ($000s, $2020),Labor Income ($000s, $2020),Value Added ($000s, $2020),Output ($000s, $2020)
+Arlington House, The Robert E. Lee Memorial NMEMc,0,0,0,0,0
+Assateague Island NS,2481659,111372,1402,44007,73713,124986
+Aztec Ruins NM,30223,1811,27,643,1145,2128
+Badlands NP,916932,60511,847,23940,41344,76026
+Bandelier NM,94948,6141,88,2558,4442,7925
+Belmont-Paul Women's Equality NM,2535,49,1,27,45,71
+Bent's Old Fort NHS,12438,745,10,301,527,919
+Bering Land Bridge NPRES,2642,4067,50,1913,3582,5793
+Big Bend NP,393907,33539,486,10916,20053,37678
+Big Cypress NPRES,1181930,96331,1273,48430,84982,138557
+Big Hole NBa,36234,2595,34,948,1446,2687
+Big South Fork NRR,Aa,772625,24335,295,9007,15130,26361
+Big Thicket NPRES,309053,20309,256,9621,16569,26737
+Bighorn Canyon NRA,212295,9483,134,3888,6254,11432
+Biscayne NP,402770,26489,347,13169,22824,37147
+Black Canyon of the Gunnison NP,341619,21782,271,9279,16230,26811
+Blue Ridge PKWYa,14099484,1067321,15472,420072,716910,1300099
+Bluestone NSR,25208,1134,16,438,739,1313
+Booker T Washington NM,22482,1347,21,571,975,1758

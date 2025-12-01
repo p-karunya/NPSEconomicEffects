@@ -1,51 +1,37 @@
-,,,,,To,tal Visitor,,,,Economic
-,,,,Total,Recreation,Spending,Labor,Income Valu,e Added,Output
-Par,k Unit,,,,Visits ($00,"0s, $2020)",Jobs ($000s,", $2020) ($000","s, $2020) ($00","0s, $2020)"
-Fort,Washingto,n P,,,"160,289","$9,604",123,"$5,129","$8,546","$13,303"
-Fos,sil Butte NM,a,,,"13,176",$673,9,$246,$416,$723
-Fra,nklin Delano,Roos,evelt M,EM,"1,010,986","$19,633",254,"$10,701","$18,110","$28,332"
-Fre,derick Dougl,ass N,HS,,"10,969",$213,3,$116,$196,$307
-Fre,derick Law,Olmste,d NHS,,"2,569",$154,2,$85,$140,$220
-Fre,dericksburg,& Spot,sylvani,a NMP,"838,836","$50,258",642,"$26,234","$43,544","$68,227"
-Frie,ndship Hill,NHS,,,"19,463","$1,166",18,$596,$974,"$1,683"
-Gat,es of the Ar,ctic NP,&PRE,S,"2,872","$4,417",54,"$2,078","$3,890","$6,292"
-Gat,eway Arch N,Pa,,,"486,021","$49,611",831,"$26,614","$44,498","$78,336"
-Gat,eway NRAa,,,,"8,404,728","$229,246","2,708","$90,973","$161,107","$259,051"
-Gau,ley River N,RA,,,"109,377","$4,918",68,"$1,886","$3,165","$5,577"
-Gen,eral Grant,NMEM,,,"24,475","$1,466",17,$812,"$1,372","$2,046"
-Geo,rge Rogers,Clark,NHP,,"56,107","$3,362",50,"$1,267","$2,232","$4,097"
-Geo,rge Washin,gton B,irthplac,e NMa,"41,970","$1,964",24,"$1,009","$1,658","$2,582"
-Geo,rge Washin,gton C,arver N,Ma,"26,570",$502,7,$187,$309,$570
-Geo,rge Washin,gton M,EM PK,WY,"6,237,361","$42,086",670,"$23,453","$37,635","$61,636"
-Get,tysburg NM,P,,,"536,552","$35,324",445,"$18,494","$30,761","$48,473"
-Gila,Cliff Dwelli,ngs NM,,,"31,645","$1,896",29,$533,$967,"$1,944"
-Gla,cier Bay NP,&PRE,Sa,,"5,748","$2,061",26,"$1,045","$1,755","$3,161"
-,a For these,"parks,",results,are based on a v,isitor survey at the de,signated park. For other,"parks, visitor cha",racteristics and sp,ending averages a,re from gen
-,profiles or,best a,vailable,data.,,,,,,
-,b Trip chara,cteristi,"c data,","spending data, a",nd/or local area defini,tions were updated for th,ese parks in 202,0.,,
-,c Areas that,were c,losed i,n 2020.,,,,,,
-,,,,Total,Recreation,Spending,Labor,Income Value,Added,Output
-Par,k Unit,,,,Visits ($00,"0s, $2020)",Jobs ($000s,", $2020) ($000s",", $2020) ($00","0s, $2020)"
-Pen,nsylvania A,venue,NHS,,"15,897",$309,4,$168,$285,$445
-Per,ry's Victory,& Inter,nationa,l Peace,"40,470","$3,722",62,"$2,086","$3,552","$5,925"
-ME,Ma,,,,,,,,,
-Pet,ersburg NB,,,,"152,878","$9,160",139,"$4,154","$7,242","$12,684"
-Petr,ified Forest,NP,,,"384,484","$25,308",328,"$8,416","$15,422","$27,947"
-Petr,oglyph NM,,,,"356,493","$21,359",324,"$9,180","$15,658","$28,117"
-Pict,ured Rocks,NL,,,"1,212,251","$54,244",679,"$16,734","$30,877","$54,681"
-Pin,nacles NPb,,,,"165,741","$10,336",114,"$5,044","$8,068","$12,412"
-Pip,e Spring NM,,,,"10,623",$637,9,$237,$412,$748
-Pip,estone NM,,,,"38,230","$2,291",34,"$1,001","$1,670","$2,987"
-Pisc,ataway P,,,,"166,484","$9,975",127,"$5,329","$8,878","$13,818"
-Poi,nt Reyes NS,,,,"2,252,424","$101,434","1,077","$53,665","$84,413","$126,746"
-Por,t Chicago N,aval M,agazin,e NMEM,70,$4,0,$3,$4,$6
-Pre,sident's Park,,,,"369,533","$7,176",93,"$3,912","$6,619","$10,356"
-Pre,sident Willia,m Jeff,erson C,linton,"4,055",$243,4,$87,$164,$293
-Birt,hplace Hom,e NHS,,,,,,,,
-Prin,ce William F,orest,P,,"333,902","$21,084",258,"$11,002","$18,476","$28,742"
-Pu`,uhonua O H,onaun,au NHP,,"130,845","$7,839",88,"$3,679","$6,581","$10,177"
-Puu,kohola Heia,u NHS,,,"23,969","$1,436",16,$674,"$1,206","$1,864"
-,a For these,"parks,",results,are based on a v,isitor survey at the de,signated park. For other,"parks, visitor cha",racteristics and spe,nding averages a,re from gen
-,profiles or,best a,vailable,data.,,,,,,
-,b Trip charac,teristi,"c data,","spending data, a",nd/or local area defini,tions were updated for th,ese parks in 202,0.,,
-,c Areas that,were,closed i,n 2020.,,,,,,
+Park Unit,Visits ($000s, $2020),Total Recreation Spending ($000s, $2020),Labor,Income Value Added ($000s, $2020),Output ($000s, $2020)
+Fort Washington P,160289,"$9,604",123,"$5,129","$8,546","$13,303"
+Fossil Butte NM,13176,"$673",9,"$246","$416","$723"
+Franklin Delano Roosevelt MEM,1010986,"$19,633",254,"$10,701","$18,110","$28,332"
+Frederick Douglass NHS,10969,"$213",3,"$116","$196","$307"
+Frederick Law Olmsted NHS,2569,"$154",2,"$85","$140","$220"
+Fredericksburg & Spotsylvania NMP,838836,"$50,258",642,"$26,234","$43,544","$68,227"
+Friendship Hill NHS,19463,"$1,166",18,"$596","$974","$1,683"
+Gates of the Arctic NP & PRES,2872,"$4,417",54,"$2,078","$3,890","$6,292"
+Gateway Arch NP,486021,"$49,611",831,"$26,614","$44,498","$78,336"
+Gateway NRA,8404728,"$229,246","2,708","$90,973","$161,107","$259,051"
+Gauley River NRA,109377,"$4,918",68,"$1,886","$3,165","$5,577"
+General Grant NMEM,24475,"$1,466",17,"$812","$1,372","$2,046"
+George Rogers Clark NHP,56107,"$3,362",50,"$1,267","$2,232","$4,097"
+George Washington Birthplace NM,41970,"$1,964",24,"$1,009","$1,658","$2,582"
+George Washington Carver NM,26570,"$502",7,"$187","$309","$570"
+George Washington MEM PKWY,6237361,"$42,086",670,"$23,453","$37,635","$61,636"
+Gettysburg NMP,536552,"$35,324",445,"$18,494","$30,761","$48,473"
+Gila Cliff Dwellings NM,31645,"$1,896",29,"$533","$967","$1,944"
+Glacier Bay NP & PRES,5748,"$2,061",26,"$1,045","$1,755","$3,161"
+Pennsylvania Avenue NHS,15897,"$309",4,"$168","$285","$445"
+Perry's Victory & International Peace MEM,40470,"$3,722",62,"$2,086","$3,552","$5,925"
+Petersburg NB,152878,"$9,160",139,"$4,154","$7,242","$12,684"
+Petrified Forest NP,384484,"$25,308",328,"$8,416","$15,422","$27,947"
+Petroglyph NM,356493,"$21,359",324,"$9,180","$15,658","$28,117"
+Pictured Rocks NL,1212251,"$54,244",679,"$16,734","$30,877","$54,681"
+Pinnacles NP,165741,"$10,336",114,"$5,044","$8,068","$12,412"
+Pipe Spring NM,10623,"$637",9,"$237","$412","$748"
+Pipestone NM,38230,"$2,291",34,"$1,001","$1,670","$2,987"
+Piscataway P,166484,"$9,975",127,"$5,329","$8,878","$13,818"
+Point Reyes NS,2252424,"$101,434","1,077","$53,665","$84,413","$126,746"
+Port Chicago Naval Magazine NMEM,70,"$4",0,"$3","$4","$6"
+President's Park,369533,"$7,176",93,"$3,912","$6,619","$10,356"
+President William Jefferson Clinton Birthplace Home NHS,4055,"$243",4,"$87","$164","$293"
+Prince William Forest P,333902,"$21,084",258,"$11,002","$18,476","$28,742"
+Pu`uhonua O Honaunau NHP,130845,"$7,839",88,"$3,679","$6,581","$10,177"
+Puukohola Heiau NHS,23969,"$1,436",16,"$674","$1,206","$1,864"

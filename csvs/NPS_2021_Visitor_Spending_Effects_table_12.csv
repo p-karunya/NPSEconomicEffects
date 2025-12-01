@@ -1,6 +1,4 @@
-,To,tal Visitor,,,,
-Total,Recreation,Spending,Labor,Income Valu,e Added Economi,c Output
-State,Visits ($Millio,"ns, $2021)","Jobs ($Millions,",$2021) ($Millions,", $2021) ($Millions",", $2021)"
+State,Visits ($Millions, $2021),Recreation Spending ($Millions, $2021),Jobs,Labor Income ($Millions, $2021),Value Added ($Millions, $2021),Economic Output ($Millions, $2021)
 Louisiana,"288,483",$18.8,261,$8.3,$14.2,$25.5
 Maine,"4,118,882",$489.5,"7,067",$261.2,$445.5,$770.4
 Maryland,"6,675,119",$246.6,"2,940",$130.0,$215.2,$344.3
@@ -20,8 +18,6 @@ North Carolina,"20,983,351","$1,692.5","24,755",$870.9,"$1,449.9","$2,584.2"
 North Dakota,"818,787",$57.9,744,$23.3,$39.7,$73.0
 Ohio,"2,809,563",$65.7,953,$36.7,$57.8,$103.6
 Oklahoma,"1,532,339",$29.7,292,$9.4,$15.0,$29.0
-Total,Recreation,Spending,Labor,Income Valu,e Added Economi,c Output
-State,Visits ($Millio,"ns, $2021)","Jobs ($Millions,",$2021) ($Millions,", $2021) ($Millions",", $2021)"
 Oregon,"1,104,459",$91.0,"1,277",$50.8,$80.1,$137.5
 Pennsylvania,"6,252,091",$298.4,"4,507",$177.6,$268.1,$468.7
 Puerto Rico,"798,188",$52.0,537,$24.2,$43.5,$67.0

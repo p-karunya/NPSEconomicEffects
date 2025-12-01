@@ -1,36 +1,22 @@
-ab,le A-6.,Visitor Spen,ding Effe,cts IMP,LAN sector,bridge – 2022.,,
-,,,,,IMPLAN,,,
-Spe,nding,Group,,,Sector,Sector Name,,Weight
-hote,ls,,,,507,"Hotels and motels, incl",uding casino,1.00
-,,,,,,hotels,,
-spe,cialty lo,dging c,,,508,Other accommodation,s,1.00
-cam,ping fe,es,,,508,Other accommodation,s,1.00
-rest,aurants,,,,509,Full-service restaurant,s,0.50
-rest,aurants,,,,510,Limited-service restaur,ants,0.50
-gro,ceries b,,,,3406,Retail – Food and beve,rage stores,1.00
-agri,tourism,a,,,3504,Other amusement and,recreation,0.25
-agri,tourism,"a,b",,,3406,Retail services – Food,and beverage,0.75
-,,,,,,stores,,
-craf,t bevera,ge recreation,a,,106,Breweries,,0.5
-craf,t bevera,ge recreation,a,,107,Wineries,,0.5
-gas,b,,,,3408,Retail – Gasoline store,s,1.00
-loca,l transp,ortation,,,418,Transit and ground pas,senger,0.25
-,,,,,,transportation,,
-loca,l transp,ortation,,,450,Automotive equipment,rental and,0.75
-,,,,,,leasing,,
-pub,lic trans,portation a,,,418,Transit and ground pas,senger,1.00
-,,,,,,transportation,,
-rent,al cars a,,,,450,Automotive equipment,rental and,1.00
-,,,,,,leasing,,
-loca,l air tra,nsportation a,,,414,Air transportation,,1.00
-loca,l water,transportation,a,,416,Water transportation,,1.00
-loca,l ferry a,nd plane trans,portation,a,414,Air transportation,,0.5
-loca,l ferry a,nd plane trans,portation,a,416,Water transportation,,0.5
-sce,nic and,sightseeing tra,nsportati,on a,420,Scenic and sightseeing,transportation,1.00
-,,,,,,and support activities f,or transportation,
-recr,eation a,nd entertainm,ent,,504,Other amusement and,recreation,1.00
-,,,,,,industries,,
-,a Spend,ing group add,ed for ne,wer Soci,oeconomic M,onitoring (SEM) surve,y data.,
-,b Retail,margins are a,pplied for,these sp,ending grou,ps. For retail purchase,"s, only retail margins",are mod
-,stimul,ating economi,c activity i,n the loc,al economy.,,,
-,C Due t,o batch modeli,ng constr,"aints, all",specialty lod,ging expenditures are,modeled through the,“Other
+Spending Group,Sector,Sector Name,Weight
+hotels,507,"Hotels and motels, including casino",1.00
+specialty lodging,508,Other accommodations,1.00
+camping fees,508,Other accommodations,1.00
+restaurants,509,Full-service restaurants,0.50
+restaurants,510,Limited-service restaurants,0.50
+groceries,3406,"Retail – Food and beverage stores",1.00
+agritourism,3504,"Other amusement and recreation",0.25
+agritourism,3406,"Retail services – Food and beverage stores",0.75
+craft beverage recreation,106,Breweries,0.5
+craft beverage recreation,107,Wineries,0.5
+gas,3408,"Retail – Gasoline stores",1.00
+local transportation,418,"Transit and ground passenger transportation",0.25
+local transportation,450,"Automotive equipment rental and leasing",0.75
+public transportation,418,"Transit and ground passenger transportation",1.00
+rental cars,450,"Automotive equipment rental and leasing",1.00
+local air transportation,414,Air transportation,1.00
+local water transportation,416,Water transportation,1.00
+local ferry and plane transportation,414,Air transportation,0.5
+local ferry and plane transportation,416,Water transportation,0.5
+scenic and sightseeing transportation,420,"Scenic and sightseeing transportation and support activities for transportation",1.00
+recreation and entertainment,504,"Other amusement and recreation industries",1.00

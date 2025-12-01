@@ -1,26 +1,19 @@
-,,To,tal Visitor,,,,Economic
-,Total,Recreation,Spending,Labo,r Income Valu,e Added,Output
-Park Unit,,Visits ($00,"0s, $2020)",Jobs ($000,"s, $2020) ($000","s, $2020) ($00","0s, $2020)"
-Rainbow Bridge,NM,"3,572",$214,3,$76,$135,$240
-Redwood NP,,"265,177","$17,311",235,"$7,085","$11,681","$20,548"
-Richmond NBP,,"179,599","$10,761",161,"$4,816","$8,406","$14,697"
-Rio Grande W&,SR,126,$109,2,$34,$64,$127
-River Raisin NB,,"309,977","$18,572",262,"$9,191","$15,914","$26,216"
-Rock Creek P,,"1,768,153","$34,336",447,"$18,734","$31,692","$49,694"
-Rocky Mountain,NPa,"3,305,200","$224,393","3,190","$120,843","$208,088","$341,950"
-Roger Williams,NMEM,"13,970",$837,11,$458,$756,"$1,178"
-Rosie the Rivet,er WWII Home Front,"9,528",$571,7,$327,$518,$786
-NHP,,,,,,,
-Ross Lake NRA,,"920,525","$41,436",415,"$18,611","$32,845","$49,180"
-Russell Cave N,M,"8,463",$507,8,$206,$349,$633
-Sagamore Hill N,HS,"105,289","$6,308",72,"$3,456","$5,862","$8,679"
-Saguaro NP,,"762,226","$50,105",696,"$25,321","$44,102","$73,510"
-Saint-Gaudens,NHSa,"13,286",$676,9,$360,$620,$995
-Saint Croix Isla,nd IHS,"6,914",$414,6,$165,$289,$504
-Saint Croix NSR,,"798,622","$35,470",498,"$17,142","$29,014","$49,102"
-Saint Paul's Ch,urch NHS,"5,968",$358,4,$196,$333,$493
-Salem Maritime,NHS,"125,554","$7,522",98,"$4,225","$6,925","$10,814"
-a For these,"parks, results are based on a v",isitor survey at the de,signated park. For other,"parks, visitor ch",aracteristics and sp,ending averages a,re from gen
-profiles or,best available data.,,,,,,
-b Trip chara,"cteristic data, spending data, a",nd/or local area defini,tions were updated for th,ese parks in 20,20.,,
-c Areas that,were closed in 2020.,,,,,,
+Park Unit,Total Visits ($000s, $2020),Recreation Spending ($000s, $2020),Jobs ($000s, $2020),Labor Income Value Added ($000s, $2020),Output ($000s, $2020)
+Rainbow Bridge NM,3572,214,3,76,135,240
+Redwood NP,265177,17311,235,7085,11681,20548
+Richmond NBP,179599,10761,161,4816,8406,14697
+Rio Grande W&SR,126,109,2,34,64,127
+River Raisin NB,309977,18572,262,9191,15914,26216
+Rock Creek P,1768153,34336,447,18734,31692,49694
+Rocky Mountain NPa,3305200,224393,3190,120843,208088,341950
+Roger Williams NMEM,13970,837,11,458,756,1178
+Rosie the Riveter WWII Home Front NHP,9528,571,7,327,518,786
+Ross Lake NRA,920525,41436,415,18611,32845,49180
+Russell Cave NM,8463,507,8,206,349,633
+Sagamore Hill NHS,105289,6308,72,3456,5862,8679
+Saguaro NP,762226,50105,696,25321,44102,73510
+Saint-Gaudens NHSA,13286,676,9,360,620,995
+Saint Croix Island IHS,6914,414,6,165,289,504
+Saint Croix NSR,798622,35470,498,17142,29014,49102
+Saint Paul's Church NHS,5968,358,4,196,333,493
+Salem Maritime NHS,125554,7522,98,4225,6925,10814

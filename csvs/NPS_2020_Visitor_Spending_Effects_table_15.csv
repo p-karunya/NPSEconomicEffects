@@ -1,20 +1,19 @@
-Park Unit,,,State,Share
-Great Smok,y M,ountains NP,Tennessee,56.0%
-Gulf Islands,NS,,Florida,77.9%
-Gulf Islands,NS,,Mississippi,22.1%
-Hovenweep,NM,,Colorado,44.0%
-Hovenweep,NM,,Utah,56.0%
-Lake Mead,NR,A,Arizona,25.0%
-Lake Mead,NR,A,Nevada,75.0%
-Natchez Tra,ce,PKWY,Alabama,7.0%
-Natchez Tra,ce,PKWY,Mississippi,80.0%
-Natchez Tra,ce,PKWY,Tennessee,13.0%
-National Cap,ita,l Parks East,District of,90.0%
-,,,Columbia,
-National Cap,ita,l Parks East,Maryland,10.0%
-Saint Croix N,S,R,Minnesota,50.0%
-Saint Croix N,S,R,Wisconsin,50.0%
-Upper Delaw,ar,e NSR&NRR,New York,50.0%
-Upper Delaw,ar,e NSR&NRR,Pennsylvania,50.0%
-Yellowstone,NP,,Montana,51.0%
-Yellowstone,NP,,Wyoming,49.0%
+Park Unit,State,Share
+Great Smoky Mountains NP,Tennessee,56.0%
+Gulf Islands NS,Florida,77.9%
+Gulf Islands NS,Mississippi,22.1%
+Hovenweep NM,Colorado,44.0%
+Hovenweep NM,Utah,56.0%
+Lake Mead NRA,Arizona,25.0%
+Lake Mead NRA,Nevada,75.0%
+Natchez Trace PKWY,Alabama,7.0%
+Natchez Trace PKWY,Mississippi,80.0%
+Natchez Trace PKWY,Tennessee,13.0%
+National Capital Parks East,District of Columbia,90.0%
+National Capital Parks East,Maryland,10.0%
+Saint Croix NSR,Minnesota,50.0%
+Saint Croix NSR,Wisconsin,50.0%
+Upper Delaware NSR&NRR,New York,50.0%
+Upper Delaware NSR&NRR,Pennsylvania,50.0%
+Yellowstone NP,Montana,51.0%
+Yellowstone NP,Wyoming,49.0%

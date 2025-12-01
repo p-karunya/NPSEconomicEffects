@@ -1,26 +1,18 @@
-ab,le A-1,"(continued). NPS visits, spending, an",d economic contrib,utions to local econ,omies –,2021.,,
-,,,Total To,tal Visitor,,,,Economic
-,,,Recreation,Spending,,Labor Income Value,Added,Output
-Par,k Unit,,Visits ($00,"0s, $2021)",Jobs (,"$000s, $2021) ($000s",", $2021) ($00","0s, $2021)"
-Fort,Laram,ie NHS,"42,904","$2,793",39,"$1,068","$1,798","$3,458"
-Fort,Larned,NHSa,"29,442","$2,005",27,$638,"$1,167","$2,259"
-Fort,Matan,zas NM,"562,114","$36,592",530,"$17,155","$29,331","$52,491"
-Fort,McHe,nry NM&SHRINE,"150,075","$9,769",123,"$5,521","$8,998","$14,499"
-Fort,Neces,sity NB,"274,853","$17,887",261,"$9,807","$15,341","$27,069"
-Fort,Point,NHS,"947,238","$61,663",661,"$36,617","$56,305","$86,455"
-Fort,Pulask,i NM,"419,480","$30,113",380,"$12,685","$22,098","$38,039"
-Fort,Raleig,h NHS,"293,447","$19,103",280,"$8,085","$13,677","$25,608"
-,,a,,,,,,
-Fort,Scott,NHS,"22,894",$462,6,$143,$239,$484
-Fort,Smith,NHS,"99,854","$6,500",96,"$2,569","$4,449","$8,535"
-Fort,Stanw,ix NMa,"45,684","$2,818",32,"$1,188","$2,160","$3,548"
-Fort,Sumte,r NM,"349,492","$22,751",297,"$9,893","$17,157","$29,656"
-Fort,Union,NMa,"12,618",$959,11,$360,$613,"$1,100"
-Fort,Union,Trading Post NHSa,"11,479","$1,041",11,$360,$568,$990
-Fort,Vanco,uver NHS,"809,525","$52,698",728,"$29,595","$47,221","$80,665"
-Fort,Washi,ngton P,"636,276","$41,420",505,"$23,308","$38,141","$60,719"
-Fos,sil Butt,e NMa,"21,153","$1,180",14,$438,$732,"$1,313"
-,a For th,"ese parks, results are based on a visitor su",rvey at the designat,ed park. For other par,"ks, visitor",characteristics and spend,ing averages are,from gene
-,profile,s or best available data.,,,,,,
-,b Trip c,"haracteristic data, spending data, and/or lo",cal area definitions w,ere updated for thes,e parks in,2021.,,
-,c Area,was closed for one or more months in 2021,.,,,,,
+Park Unit,Recreation,Spending,Jobs,Labor Income Value,Added,Output
+Fort Laramie NHS,42904,"$2,793",39,"$1,068","$1,798","$3,458"
+Fort Larned NHSa,29442,"$2,005",27,$638,"$1,167","$2,259"
+Fort Matanzas NM,562114,"$36,592",530,"$17,155","$29,331","$52,491"
+Fort McHenry NM&SHRINE,150075,"$9,769",123,"$5,521","$8,998","$14,499"
+Fort Necessity NB,274853,"$17,887",261,"$9,807","$15,341","$27,069"
+Fort Point NHS,947238,"$61,663",661,"$36,617","$56,305","$86,455"
+Fort Pulaski NM,419480,"$30,113",380,"$12,685","$22,098","$38,039"
+Fort Raleigh NHS,293447,"$19,103",280,"$8,085","$13,677","$25,608"
+Fort Scott NHS,22894,$462,6,$143,$239,$484
+Fort Smith NHS,99854,"$6,500",96,"$2,569","$4,449","$8,535"
+Fort Stanwix NMa,45684,"$2,818",32,"$1,188","$2,160","$3,548"
+Fort Sumter NM,349492,"$22,751",297,"$9,893","$17,157","$29,656"
+Fort Union NMa,12618,$959,11,$360,$613,"$1,100"
+Fort Union Trading Post NHSa,11479,"$1,041",11,$360,$568,$990
+Fort Vancouver NHS,809525,"$52,698",728,"$29,595","$47,221","$80,665"
+Fort Washington P,636276,"$41,420",505,"$23,308","$38,141","$60,719"
+Fossil Butte NMa,21153,"$1,180",14,$438,$732,"$1,313"

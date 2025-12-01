@@ -1,32 +1,113 @@
-Park Unit Ty,pe,,Abbreviation,
-National Wild,and Scenic River,,W&SR,
-Park,,,P,
-Parkway,,,PKWY,
-Scenic & Rec,reational River,,NSR&NRR,
-Wild & Scenic,River,,W&SR,
-able A-5. Vi,sitor Spending Effects vis,it a,llocation for multi-st,ate pa
-Park Unit,,Sta,te,Share
-Assateague Is,land NS,Mar,yland,33.0%
-Assateague Is,land NS,Virg,inia,67.0%
-Big South For,k NRRA,Ken,tucky,41.0%
-Big South For,k NRRA,Ten,nessee,59.0%
-Bighorn Cany,on NRA,Mo,ntana,54.0%
-Bighorn Cany,on NRA,Wy,oming,46.0%
-Blue Ridge P,KWY,Nor,th Carolina,62.0%
-Blue Ridge P,KWY,Virg,inia,38.0%
-Chesapeake,& Ohio Canal NHP,Dist,rict of,24.0%
-,,Col,umbia,
-Chesapeake,& Ohio Canal NHP,Mar,yland,76.0%
-Chickamauga,& Chattanooga NMP,Ge,orgia,50.0%
-Chickamauga,& Chattanooga NMP,Ten,nessee,50.0%
-Cumberland G,ap NHP,Ken,tucky,93.0%
-Cumberland G,ap NHP,Virg,inia,7.0%
-Delaware Wa,ter Gap NRA,Ne,w Jersey,71.0%
-Delaware Wa,ter Gap NRA,Pen,nsylvania,29.0%
-Dinosaur NM,,Col,orado,74.0%
-Dinosaur NM,,Uta,h,26.0%
-Gateway NRA,,Ne,w Jersey,17.0%
-Gateway NRA,,Ne,w York,83.0%
-Glen Canyon,NRA,Ariz,ona,19.4%
-Glen Canyon,NRA,Uta,h,80.6%
-Great Smoky,Mountains NP,Nor,th Carolina,44.0%
+,,Col,Arizona,ona,9.0%
+,,Ne,w Hamp,exico,7.0%
+,,Ver,mont,39.0%
+,,Wis,con,sin,25.0%
+Arizona,ona,Arizona,ona,7.0%
+C,a,,Ark,ansas,10.0%
+C,a,,Ida,ho,40.0%
+C,a,,Mary,landland,30.0%
+C,a,,O,hio,33.0%
+C,a,,O,ntana,8.0%
+C,a,,Ver,mont,36.0%
+C,a,Col,orado,100.0%
+Col,orado,col,ora,100.0%
+Dak,ota,,Ida,ho,22.0%
+Del,awa,ter,ritory,24.0%
+Del,awa,ne,w Jersey,24.0%
+Del,awa,ne,w York,3.0%
+Del,awa,,Pen,nsylvania,36.0%
+Del,awa,,Vir,mont,46.0%
+Dix,on,,Ida,ho,22.0%
+Dix,on,Dix,on,20.0%
+Dix,on,Ver,mont,24.0%
+England,england,3.0%
+England,England,100.0%
+Fla,ri,da,Fla,ri,da,100.0%
+Flo,ri,da,Flo,ri,da,100.0%
+Fl,ri,da,Fla,ri,da,26.0%
+Fla,ri,da,,Ill,inois,s,23.0%
+Geo,rgia,,Ark,ansas,10.0%
+Geo,rgia,,Ark,ansas,10.0%
+Geo,rgia,,Ida,ho,20.0%
+geo,rgia,Ver,mont,40.0%
+Ill,ino,s,,Ida,ho,12.0%
+Ill,ino,s,,pen,nsylvania,16.0%
+Ind,iana,na,,Ida,ho,28.0%
+Ind,iana,Ind,iana,7.0%
+Ind,iana,,Ver,mont,24.0%
+Ion,wa,,Ark,ansas,10.0%
+Ion,wa,,Ida,ho,28.0%
+Ion,wa,,Ver,mont,35.0%
+Kan,sas,,Ark,ansas,10.0%
+Kan,sas,,Ida,ho,27.0%
+Kan,sas,Kan,sas,100.0%
+Kan,sas,,Ver,mont,32.0%
+Ken,tuck,y,,Ida,ho,22.0%
+Ken,tuck,y,,Ver,mont,32.0%
+Mai,ne,,Ida,ho,22.0%
+Mai,ne,Mai,ne,100.0%
+Mai,ne,,Ver,mont,28.0%
+Mar,yland,Mar,yland,100.0%
+Mar,yland,,Ver,mont,20.0%
+Mas,sac,hu,setts,,Ida,ho,30.0%
+Mas,sac,hu,setts,,Ver,mont,24.0%
+Mic,hig,an,,Ida,ho,24.0%
+Mic,hig,an,,Ver,mont,26.0%
+Min,nes,ota,,Ida,ho,22.0%
+Min,nes,ota,,Ver,mont,32.0%
+Mis,sou,ri,,Ark,ansas,10.0%
+Mis,sou,ri,,Ida,ho,26.0%
+Mis,sou,ri,,Ver,mont,30.0%
+Mon,tana,,Ida,ho,16.0%
+Mon,tana,,Ver,mont,26.0%
+Neb,ras,ka,,Ida,ho,29.0%
+Neb,ras,ka,,Ver,mont,32.0%
+Nev,ada,,Ida,ho,15.0%
+Nev,ada,,Ver,mont,23.0%
+New,Hamp,shire,,Ida,ho,24.0%
+New,Hamp,shire,,Ver,mont,26.0%
+New,Jer,sey,,Ida,ho,23.0%
+New,Jer,sey,,Ver,mont,25.0%
+New,Mex,ico,,Ida,ho,16.0%
+New,Mex,ico,,Ver,mont,25.0%
+New,York,,Ida,ho,25.0%
+New,York,,Ver,mont,19.0%
+Nor,th,Car,oli,na,,Ida,ho,24.0%
+Nor,th,Car,oli,na,,Ver,mont,25.0%
+Nor,th,Dak,ota,,Ida,ho,27.0%
+Nor,th,Dak,ota,,Ver,mont,30.0%
+Oh,io,,Ida,ho,28.0%
+Oh,io,,Ver,mont,29.0%
+Okl,aho,ma,,Ark,ansas,10.0%
+Okl,aho,ma,,Ida,ho,23.0%
+Okl,aho,ma,,Ver,mont,30.0%
+Ore,gon,,Ida,ho,13.0%
+Ore,gon,,Ver,mont,22.0%
+Pen,nsyl,van,ia,,Ida,ho,27.0%
+Pen,nsyl,van,ia,,Ver,mont,24.0%
+Rho,de,Isl,and,,Ida,ho,22.0%
+Rho,de,Isl,and,,Ver,mont,22.0%
+Sou,th,Car,oli,na,,Ida,ho,22.0%
+Sou,th,Car,oli,na,,Ver,mont,24.0%
+Sou,th,Dak,ota,,Ida,ho,29.0%
+Sou,th,Dak,ota,,Ver,mont,33.0%
+Ten,nes,see,,Ark,ansas,10.0%
+Ten,nes,see,,Ida,ho,24.0%
+Ten,nes,see,,Ver,mont,29.0%
+Tex,as,,Ark,ansas,10.0%
+Tex,as,,Ida,ho,22.0%
+Tex,as,,Ver,mont,27.0%
+Uta,h,,Ida,ho,12.0%
+Uta,h,,Ver,mont,25.0%
+Ver,mont,,Ida,ho,29.0%
+Ver,mont,,Ver,mont,100.0%
+Vir,gin,ia,,Ida,ho,30.0%
+Vir,gin,ia,,Ver,mont,25.0%
+Was,hing,ton,,Ida,ho,12.0%
+Was,hing,ton,,Ver,mont,21.0%
+Wes,t,Vir,gin,ia,,Ida,ho,29.0%
+Wes,t,Vir,gin,ia,,Ver,mont,28.0%
+Wis,con,sin,,Ida,ho,26.0%
+Wis,con,sin,,Ver,mont,30.0%
+Wyo,ming,,Ida,ho,16.0%
+Wyo,ming,,Ver,mont,26.0%

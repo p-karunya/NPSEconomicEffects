@@ -1,30 +1,29 @@
-Park Unit Type,,Abbreviation,
-Parkway,,PKWY,
-Scenic & Recrea,tional River,NSR&NRR,
-Wild & Scenic Ri,ver,W&SR,
-able A-5. Visit,or Spending Effects visit alloc,ation for multi-state parks.,
-Park Unit,,State,Share
-Assateague Isla,nd NS,Maryland,33.0%
-Assateague Isla,nd NS,Virginia,67.0%
-Big South Fork N,RRA,Kentucky,41.0%
-Big South Fork N,RRA,Tennessee,59.0%
-Bighorn Canyon,NRA,Montana,54.0%
-Bighorn Canyon,NRA,Wyoming,46.0%
-Blue Ridge PKW,Y,North Carolina,62.0%
-Blue Ridge PKW,Y,Virginia,38.0%
-Chesapeake & O,hio Canal NHP,District of Columbia,24.0%
-Chesapeake & O,hio Canal NHP,Maryland,76.0%
-Chickamauga &,Chattanooga NMP,Georgia,50.0%
-Chickamauga &,Chattanooga NMP,Tennessee,50.0%
-Cumberland Gap,NHP,Kentucky,93.0%
-Cumberland Gap,NHP,Virginia,7.0%
-Death Valley NP,,California,98.2%
-Death Valley NP,,Nevada,1.8%
-Delaware Water,Gap NRA,New Jersey,71.0%
-Delaware Water,Gap NRA,Pennsylvania,29.0%
-Dinosaur NM,,Colorado,74.0%
-Dinosaur NM,,Utah,26.0%
-Gateway NRA,,New Jersey,20.1%
-Gateway NRA,,New York,79.9%
-Glen Canyon NR,A,Arizona,23.8%
-Glen Canyon NR,A,Utah,76.2%
+Park Unit Type,Abbreviation
+Parkway,PKWY
+Scenic & Recreational River,NSR&NRR
+Wild & Scenic River,W&SR
+Park Unit,State,Share
+Assateague Island NS,Maryland,33.0%
+Assateague Island NS,Virginia,67.0%
+Big South Fork NRRA,Kentucky,41.0%
+Big South Fork NRRA,Tennessee,59.0%
+Bighorn Canyon NRA,Montana,54.0%
+Bighorn Canyon NRA,Wyoming,46.0%
+Blue Ridge PKWY,North Carolina,62.0%
+Blue Ridge PKWY,Virginia,38.0%
+Chesapeake & Ohio Canal NHP,District of Columbia,24.0%
+Chesapeake & Ohio Canal NHP,Maryland,76.0%
+Chickamauga & Chattanooga NMP,Georgia,50.0%
+Chickamauga & Chattanooga NMP,Tennessee,50.0%
+Cumberland Gap NHP,Kentucky,93.0%
+Cumberland Gap NHP,Virginia,7.0%
+Death Valley NP,California,98.2%
+Death Valley NP,Nevada,1.8%
+Delaware Water Gap NRA,New Jersey,71.0%
+Delaware Water Gap NRA,Pennsylvania,29.0%
+Dinosaur NM,Colorado,74.0%
+Dinosaur NM,Utah,26.0%
+Gateway NRA,New Jersey,20.1%
+Gateway NRA,New York,79.9%
+Glen Canyon NRA,Arizona,23.8%
+Glen Canyon NRA,Utah,76.2%

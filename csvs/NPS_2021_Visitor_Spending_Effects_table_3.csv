@@ -1,33 +1,22 @@
-,,Total To,tal Visitor,,,,Economic
-,,Recreation,Spending,,Labor Income Valu,e Added,Output
-Par,k Unit,Visits ($00,"0s, $2021)",Jobs (,"$000s, $2021) ($000","s, $2021) ($00","0s, $2021)"
-Cha,nnel Islands NP,"319,252","$21,278",254,"$12,373","$19,516","$31,155"
-Cha,rles Pinckney NHS,"24,854","$1,618",21,$705,"$1,220","$2,103"
-Cha,rles Young Buffalo Soldiers NM,"8,110",$528,8,$256,$404,$734
-Cha,ttahoochee River NRA,"3,256,151","$160,343","2,168","$81,410","$135,817","$235,592"
-Che,sapeake & Ohio Canal NHP,"5,005,217","$104,456","1,364","$59,764","$98,617","$160,941"
-Chi,ckamauga & Chattanooga NMP,"945,390","$61,521",881,"$25,547","$41,984","$78,685"
-Chi,ckasaw NRAa,"1,517,102","$28,756",267,"$7,444","$12,063","$24,164"
-Chir,icahua NM,"53,413","$3,469",42,"$1,205","$2,045","$3,727"
-Chr,istiansted NHS,"91,200","$5,937",61,"$2,766","$4,967","$7,653"
-City,of Rocks NRES,"97,376","$6,339",84,"$2,400","$4,083","$7,539"
-Clar,a Barton NHSc,0,$0,0,$0,$0,$0
-Col,onial NHPa,"3,114,420","$336,833","5,039","$143,481","$245,082","$453,114"
-Col,orado NM,"499,841","$34,948",453,"$13,699","$23,700","$43,630"
-Con,garee NPa,"215,181","$12,311",145,"$4,727","$8,416","$14,808"
-Cor,onado NMEM,"129,758","$8,447",112,"$3,776","$6,276","$11,087"
-Cow,pens NB,"204,811","$14,703",204,"$7,390","$12,256","$21,391"
-Cra,ter Lake NP,"647,751","$61,964",887,"$33,579","$51,661","$90,509"
-,"a For these parks, results are based on a visitor su",rvey at the designat,ed park. For other pa,"rks, visitor",characteristics and spen,ding averages are,from gene
-,profiles or best available data.,,,,,,
-,"b Trip characteristic data, spending data, and/or lo",cal area definitions w,ere updated for thes,e parks in,2021.,,
-,,Recreation,Spending,,Labor Income Valu,e Added,Output
-Park,Unit,Visits ($00,"0s, $2021)",Jobs (,"$000s, $2021) ($000","s, $2021) ($00","0s, $2021)"
-Yello,wstone NPa,"4,860,242","$630,282","8,736","$294,034","$456,424","$834,335"
-Yose,mite NPa,"3,287,595","$437,281","5,595","$214,391","$351,323","$602,564"
-Yuko,n - Charley Rivers NPRESbc,629,"$1,770",25,$973,"$1,578","$2,680"
-Zion,NPab,"5,039,835","$667,486","10,743","$275,750","$486,845","$947,380"
-a,"For these parks, results are based on a visitor su",rvey at the designat,ed park. For other p,"arks, visitor",characteristics and spen,ding averages are,from gene
-,profiles or best available data.,,,,,,
-b,"Trip characteristic data, spending data, and/or lo",cal area definitions w,ere updated for the,se parks in,2021.,,
-c,Area was closed for one or more months in 2021,.,,,,,
+Park Unit,Visits ($000s, $2021),Recreation Spending ($000s, $2021),Jobs,Labor Income Value ($000s, $2021),Added ($000s, $2021),Output ($000s, $2021)
+Channel Islands NP,"319,252","$21,278",254,"$12,373","$19,516","$31,155"
+Charles Pinckney NHS,"24,854","$1,618",21,$705,"$1,220","$2,103"
+Charles Young Buffalo Soldiers NM,"8,110",$528,8,$256,$404,$734
+Chattahoochee River NRA,"3,256,151","$160,343","2,168","$81,410","$135,817","$235,592"
+Chesapeake & Ohio Canal NHP,"5,005,217","$104,456","1,364","$59,764","$98,617","$160,941"
+Chickamauga & Chattanooga NMP,"945,390","$61,521",881,"$25,547","$41,984","$78,685"
+Chickasaw NRA,"1,517,102","$28,756",267,"$7,444","$12,063","$24,164"
+Chiricahua NM,"53,413","$3,469",42,"$1,205","$2,045","$3,727"
+Christiansted NHS,"91,200","$5,937",61,"$2,766","$4,967","$7,653"
+City of Rocks NRES,"97,376","$6,339",84,"$2,400","$4,083","$7,539"
+Clara Barton NHS,0,$0,0,$0,$0,$0
+Colonial NHP,"3,114,420","$336,833","5,039","$143,481","$245,082","$453,114"
+Colorado NM,"499,841","$34,948",453,"$13,699","$23,700","$43,630"
+Congaree NP,"215,181","$12,311",145,"$4,727","$8,416","$14,808"
+Coronado NMEM,"129,758","$8,447",112,"$3,776","$6,276","$11,087"
+Cowpens NB,"204,811","$14,703",204,"$7,390","$12,256","$21,391"
+Crater Lake NP,"647,751","$61,964",887,"$33,579","$51,661","$90,509"
+Yellowstone NP,"4,860,242","$630,282","8,736","$294,034","$456,424","$834,335"
+Yosemite NP,"3,287,595","$437,281","5,595","$214,391","$351,323","$602,564"
+Yukon - Charley Rivers NPRES,629,"$1,770",25,$973,"$1,578","$2,680"
+Zion NP,"5,039,835","$667,486","10,743","$275,750","$486,845","$947,380"

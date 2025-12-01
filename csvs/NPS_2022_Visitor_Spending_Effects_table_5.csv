@@ -1,49 +1,34 @@
-ab,le A-1 (co,ntinue,d). NP,"S visits, spending, an",d economic contri,butions to local ec,onomies – 2022.,,,
-,,,,,Total To,tal Visitor,,,,Economic
-,,,,,Recreation,Spending,Labo,r Income Valu,e Added,Output
-Par,k Unit,,,,Visits ($00,"0s, $2022)",Jobs ($000,"s, $2022) ($000","s, $2022) ($00","0s, $2022)"
-Cra,ter Lake NP,,,,"527,259","$51,208",728,"$27,714","$42,626","$74,757"
-Cra,ters Of The,Moon,NM&PR,ES a,"237,774","$9,362",124,"$3,438","$5,770","$11,017"
-Cu,mberland G,ap NHP,"a,b",,"732,916","$23,245",284,"$8,010","$13,640","$25,237"
-Cu,mberland Isl,and NS,,,"64,387","$3,091",41,"$1,386","$2,304","$4,085"
-Cur,ecanti NRA,,,,"992,749","$49,301",556,"$19,920","$33,071","$57,818"
-Cuy,ahoga Vall,ey NP a,,,"2,913,312","$55,996",778,"$30,380","$48,069","$86,244"
-Day,ton Aviation,Herita,ge NH,P a,"81,303","$5,362",85,"$3,124","$4,999","$8,857"
-De,Soto NMEM,,,,"173,150","$11,433",163,"$5,835","$9,770","$17,195"
-Dea,th Valley N,P,,,"1,128,862","$104,819","1,228","$51,435","$86,947","$139,299"
-Del,aware Wate,r Gap,NRA a,,"4,380,225","$167,208","2,329","$110,908","$166,593","$266,010"
-Den,ali NP&PR,ES,,,"427,562","$474,887","6,641","$260,213","$417,656","$713,505"
-Dev,ils Postpile,NM,,,"144,453","$10,514",127,"$4,759","$7,620","$13,127"
-Dev,ils Tower N,M,,,"480,713","$34,868",459,"$13,824","$24,442","$45,382"
-Din,osaur NM,,,,"351,019","$23,829",270,"$9,194","$15,517","$27,064"
-Dry,Tortugas N,P,,,"78,488","$5,403",58,"$2,173","$3,686","$6,123"
-Dwi,ght D. Eise,nhower,MEM,,"760,603","$16,208",203,"$9,371","$15,509","$24,844"
-Edg,ar Allan Po,e NHS,c,,"10,726",$708,10,$434,$674,"$1,123"
-,a For these,"parks,",results,are based on a visitor s,urvey at the designat,ed park. For other p,"arks, visitor charac",teristics and spend,ing averages are,from gene
-,profiles or,best a,vailable,data.,,,,,,
-,b Trip chara,cteristi,"c data,","spending data, and/or lo",cal area definitions,were updated for the,se parks in 2022.,,,
-,c Area was,closed,for one,or more months in 2022,.,,,,,
-,,,,,Total To,tal Visitor,,,,Economic
-,,,,,Recreation,Spending,Labor,Income Value,Added,Output
-Par,k Unit,,,,Visits ($00,"0s, $2022)",Jobs ($000s,", $2022) ($000s",", $2022) ($00","0s, $2022)"
-Per,ry's Victory,& Inter,national,Peace MEM a,"90,988","$9,034",145,"$5,660","$8,783","$15,256"
-Pet,ersburg NB,,,,"180,907","$11,946",174,"$5,736","$9,655","$17,512"
-Petr,ified Fores,t NP,,,"505,209","$36,752",434,"$14,026","$23,644","$42,065"
-Petr,oglyph NM,b,,,"339,394","$15,043",208,"$6,581","$10,934","$19,945"
-Pict,ured Rocks,NL,,,"925,685","$45,873",549,"$15,044","$26,223","$48,775"
-Pin,nacles NP a,",b",,,"275,023","$18,922",162,"$9,962","$15,116","$21,802"
-Pip,e Spring NM,,,,"23,001","$1,519",21,$611,"$1,025","$1,924"
-Pip,estone NM,,,,"78,036","$5,153",72,"$2,279","$3,741","$6,876"
-Pisc,ataway P,,,,"243,212","$16,060",195,"$9,024","$14,767","$23,541"
-Poi,nt Reyes N,S,,,"2,336,202","$116,888","1,119","$64,019","$97,924","$149,158"
-Por,t Chicago N,aval M,agazine,NMEM,"1,129",$75,1,$44,$68,$105
-Pre,sident's Par,k,,,"714,224","$15,220",190,"$8,800","$14,563","$23,329"
-Pre,sident Willia,m Jeff,erson Cl,inton Birthplace,"6,078",$402,6,$150,$265,$499
-Ho,me NHS,,,,,,,,,
-Prin,ce William,Forest,P,,"294,916","$19,149",222,"$10,403","$17,010","$26,976"
-Pu`,uhonua O H,onaun,au NHP,,"311,441","$20,565",211,"$9,564","$17,178","$26,507"
-Puu,kohola Hei,au NHS,,,"31,602","$2,087",21,$971,"$1,743","$2,690"
-,a For these,"parks,",results a,re based on a visitor s,urvey at the designat,ed park. For other p,"arks, visitor charact",eristics and spendi,ng averages are,from gene
-,profiles o,r best a,vailable,data.,,,,,,
-,b Trip chara,cteristi,"c data, s","pending data, and/or lo",cal area definitions,were updated for the,se parks in 2022.,,,
-,c Area was,closed,for one,or more months in 2022,.,,,,,
+Park Unit,Visits ($000s, $2022),Total Recreation Spending ($000s, $2022),Jobs ($000s, $2022),Economic Labor Income Value Added ($000s, $2022),Economic Output ($000s, $2022)
+Crater Lake NP,527259,51208,728,27714,42626,74757
+Craters Of The Moon NM&PRES,237774,9362,124,3438,5770,11017
+Cumberland Gap NHP,732916,23245,284,8010,13640,25237
+Cumberland Island NS,64387,3091,41,1386,2304,4085
+Curecanti NRA,992749,49301,556,19920,33071,57818
+Cuyahoga Valley NP,2913312,55996,778,30380,48069,86244
+Dayton Aviation Heritage NHP,81303,5362,85,3124,4999,8857
+DeSoto NMEM,173150,11433,163,5835,9770,17195
+Death Valley NP,1128862,104819,1228,51435,86947,139299
+Delaware Water Gap NRA,4380225,167208,2329,110908,166593,266010
+Denali NP&PRES,427562,474887,6641,260213,417656,713505
+Devils Postpile NM,144453,10514,127,4759,7620,13127
+Devils Tower NM,480713,34868,459,13824,24442,45382
+Dinosaur NM,351019,23829,270,9194,15517,27064
+Dry Tortugas NP,78488,5403,58,2173,3686,6123
+Dwight D. Eisenhower MEM,760603,16208,203,9371,15509,24844
+Edgar Allan Poe NHS,10726,708,10,434,674,1123
+Perry's Victory & International Peace MEM,90988,9034,145,5660,8783,15256
+Petersburg NB,180907,11946,174,5736,9655,17512
+Petrified Forest NP,505209,36752,434,14026,23644,42065
+Petroglyph NM,339394,15043,208,6581,10934,19945
+Pictured Rocks NL,925685,45873,549,15044,26223,48775
+Pinnacles NP,275023,18922,162,9962,15116,21802
+Pipe Spring NM,23001,1519,21,611,1025,1924
+Pipestone NM,78036,5153,72,2279,3741,6876
+Piscataway P,243212,16060,195,9024,14767,23541
+Point Reyes NS,2336202,116888,1119,64019,97924,149158
+Port Chicago Naval Magazine NMEM,1129,75,1,44,68,105
+President's Park,714224,15220,190,8800,14563,23329
+President William Jefferson Clinton Birthplace Home NHS,6078,402,6,150,265,499
+Prince William Forest P,294916,19149,222,10403,17010,26976
+Pu'uhonua O Honaunau NHP,311441,20565,211,9564,17178,26507
+Puukohola Heiau NHS,31602,2087,21,971,1743,2690
