@@ -1,17 +1,22 @@
-Total Visitor Recreation Spending (2022),Total Visitor Recreation Spending (2022),Labor Income Value Added (2022),Output (2022)
-Park Unit Name,Visits ($000s),Spending ($000s),Jobs ($000s),Labor Income Value Added ($000s),Output ($000s)
-Abraham Lincoln Birthplace NHP,265707,$17545,266,$8749,$13694,$25544
-Acadia NP,3970260,$478821,6695,$231941,$394168,$690712
-Adams NHP,12848,$849,11,$512,$798,$1290
-African Burial Ground NM,29743,$1964,21,$1170,$1902,$2884
-Agate Fossil Beds NM,16357,$1378,18,$428,$743,$1477
-Alagnak WR,184,$7,0,$3,$5,$8
-Alibates Flint Quarries NM,7520,$497,7,$207,$327,$638
-Allegheny Portage Railroad NHS,176144,$11631,167,$6225,$9636,$17060
-Amistad NRA,912283,$45498,574,$15785,$25063,$49145
-Andersonville NHS,60109,$3969,61,$1510,$2585,$5109
-Andrew Johnson NHS,52873,$3491,49,$1624,$2660,$4838
-Aniakchak NM&PRES,179,$344,5,$189,$306,$520
-Antietam NB,115619,$7630,95,$4323,$7026,$11330
-Apostle Islands NL,254952,$45212,623,$17511,$29955,$56652
-Appomattox Court House NHP,83483,$5512,79,$2360,$3939,$7307
+Park Unit,State,Share
+Glen Canyo,Utah,69.2%
+Great Smok,North Carolina,44.0%
+Great Smok,Tennessee,56.0%
+Gulf Islands,Florida,79.3%
+Gulf Islands,Mississippi,20.7%
+Hovenweep,Colorado,44.0%
+Hovenweep,Utah,56.0%
+Lake Mead,Arizona,25.0%
+Lake Mead,Nevada,75.0%
+Natchez Tra,Alabama,7.0%
+Natchez Tra,Mississippi,80.0%
+Natchez Tra,Tennessee,13.0%
+National Cap,District of,90.0%
+,Columbia,
+National Cap,Maryland,10.0%
+Saint Croix N,Minnesota,50.0%
+Saint Croix N,Wisconsin,50.0%
+Upper Delaw,New York,50.0%
+Upper Delaw,Pennsylvania,50.0%
+Yellowstone,Montana,51.0%
+Yellowstone,Wyoming,49.0%
