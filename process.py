@@ -16,7 +16,7 @@ from openai import OpenAI
 
 API_KEY = "sk-hc-v1-fef245f99c594bb4b20c70bbae781c12bec2d0143f0d4f98b24bf21835624b6a"
 YEARS_TO_CLEAN = ("2020", "2021", "2022")
-ALL_YEARS = ("2019", "2020", "2021", "2022", "2023", "2024")
+ALL_YEARS = ("2018", "2019", "2020", "2021", "2022", "2023", "2024")
 MAX_WORKERS = 4
 
 SCRIPT_DIR = Path(__file__).resolve().parent
